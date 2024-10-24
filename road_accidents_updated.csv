@@ -1,0 +1,21 @@
+Date,Time,Weather,Road_Type,Speed_Limit,Vehicle_Type,Driver_Age,Alcohol_Involved,Accident_Happened
+2024-10-01,08:15,Clear,Highway,100 km/h,Car,32,No,1
+2024-10-02,13:40,Rain,Urban Road,60 km/h,Truck,45,Yes,0
+2024-10-03,22:05,Foggy,Rural Road,80 km/h,Motorcycle,24,No,1
+2024-10-04,17:30,Snow,Highway,120 km/h,Bus,50,No,0
+2024-10-05,09:00,Clear,Urban Road,50 km/h,Car,28,No,1
+2024-10-06,19:45,Rain,Rural Road,70 km/h,Bicycle,19,Yes,0
+2024-10-07,14:10,Cloudy,Highway,90 km/h,Car,40,No,1
+2024-10-08,12:25,Clear,Urban Road,60 km/h,Van,35,Yes,1
+2024-10-09,07:50,Clear,Highway,100 km/h,Truck,55,No,0
+2024-10-10,22:30,Rain,Urban Road,50 km/h,Motorcycle,22,Yes,1
+2024-10-11,11:20,Snow,Rural Road,80 km/h,Bus,48,No,0
+2024-10-12,16:55,Foggy,Highway,120 km/h,Car,30,No,1
+2024-10-13,05:30,Clear,Urban Road,50 km/h,Truck,42,Yes,1
+2024-10-14,20:40,Rain,Rural Road,70 km/h,Motorcycle,25,No,0
+2024-10-15,23:15,Cloudy,Highway,90 km/h,Bicycle,18,Yes,1
+2024-10-16,09:30,Clear,Urban Road,100 km/h,Van,33,No,1
+2024-10-17,13:00,Foggy,Highway,80 km/h,Car,29,Yes,0
+2024-10-18,18:15,Rain,Rural Road,60 km/h,Truck,47,No,1
+2024-10-19,21:05,Clear,Highway,120 km/h,Bus,51,Yes,0
+2024-10-20,06:50,Snow,Urban Road,50 km/h,Bicycle,21,No,1
